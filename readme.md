@@ -30,7 +30,7 @@ Now that you've learned how to conduct user research and competitor research, it
 #### Deliverable
 
 The following deliverables are due before class on Monday, August 8:
-- Your written research plan (use the [provided template](https://github.com/ga-adi-nyc/Course-Materials/blob/master/lessons/product-development/user-research-lesson/assets/research-plan-worksheet.pdf://github.com/ga-adi-nyc/Course-Materials/blob/master/lessons/product-development/user-research-lesson/assets/research-plan-worksheet.pdf))
+- Your written research plan (use the [provided template](https://github.com/ga-adi-nyc/Course-Materials/blob/master/lessons/product-development/user-research-lesson/assets/research-plan-worksheet.pdf))
 - Notes from each user interview (include interviewer name and date the interview was conducted)
 - Your competitive analysis (either feature inventory or pluses/deltas)
 
